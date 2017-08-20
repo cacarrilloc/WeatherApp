@@ -1,2 +1,2 @@
 # WeatherApp
-Weather application for iOS using Wunderground API
+Weather application for iOS using Wunderground API (Swift 3.0)
